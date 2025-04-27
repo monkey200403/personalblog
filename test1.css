@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+::selection{
+    background-color: black;
+    color: white;
+}
+.menu1:hover{
+    color: chocolate;
+}
+.gridlayout{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tex{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  text-decoration-line: none;
+  color: white;
+}
+.menu1{
+    text-decoration-line: none;
+    color: white;
+}
+.menu11{
+    text-decoration-line: none;
+    color: chocolate;
+}
+.menu{
+    display: flex;
+    gap: 25px;
+}
+.head{
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    gap: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 30px;
+    color: white;
+}
+.boxi{
+    background-color: black;
+    width: 100%;
+    height: 800px;
+}
+.ulti{
+    font-size: 80px;
+    width: 1100px;
+    margin-bottom: 5px;
+}
+.boxin{
+    font-size: 80px;
+    color: white;
+    width: 1100px;
+    text-align: center;
+    position: absolute;
+    top: 350px;
+    left: 230px;
+}
+.ho1{
+    font-size: 20px;
+}
+.home{
+    text-decoration-line: none;
+    color: white;
+}
+.home:hover{
+    color: chocolate;
+}
+::selection{
+    background-color: grey;
+}
+.p11{
+    margin-left:100px ;
+    margin-top: 80px;
+}
+.p12{
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 800px;
+}
+.im9{
+    margin-top: 30px;
+    margin-left:100px ;
+}
+.p13{
+    margin-left:100px ;
+    width: 800px;
+}
+.box1{
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 650px;
+    height: 100px;
+    border-left: 5px solid rgb(211, 210, 210);
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.h51{
+    margin-bottom: 30px;
+}
+.box11{
+    width: 1000px;
+    height: 1400px;
+    padding-top: 1px;
+    margin-top: 60px;
+    margin-left: 260px;
+    background-color: rgb(248, 246, 246);
+}
+
+.previous::before{
+    content: '\2190';
+    margin-right: 8px;
+}
+.previous{
+    text-decoration-line: none;
+    color: black;
+}
+.pre{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.nextpost{
+    text-decoration-line: none;
+    color: black;
+}
+.nextpost::after{
+    content: '\2192';
+    margin-left: 8px;
+}
+.box2{
+    background-color:  rgb(248, 246, 246);
+    width: 1000px;
+    height: 500px;
+    margin-top: 60px;
+    margin-left: 260px;
+}
+.na{
+    display: flex;
+    gap: 55px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.but{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.but:hover{
+    background-color: chocolate;
+    color: black;
+}
+.box2{
+    padding-left: 100px;
+    padding-top: 70px;
+}
+.p23{
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.da{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    color: grey;
+    opacity: 0.4;
+}
+.pf{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.pf1{
+    margin-left: 700px;
+    margin-top: 8px;
+}
+.contact{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 720px;
+    margin-top: 30px;
+}
+.contact:hover{
+    background-color: rgb(202, 125, 8);
+    color: black;
+}
+.copy{
+    margin-top: 50px;
+    margin-left: 570px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+::selection{
+    background-color: black;
+    color: white;
+}
+.menu1:hover{
+    color: chocolate;
+}
+.t1{
+    text-decoration-line: none;
+    color:black;
+}
+.gridlayout{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tex{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  text-decoration-line: none;
+  color: black;
+}
+.menu1{
+    text-decoration-line: none;
+    color: black;
+}
+.menu{
+    display: flex;
+    gap: 25px;
+}
+.head{
+    background-color: lab(94.38% -2.4 3.5);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+.im1{
+    margin-left: 5px;
+}
+.head2{
+    display: flex;
+    justify-content: center;
+}
+.con1{
+    margin-top: 20px;
+    margin-left:140px ;
+}
+.am{
+    font-size: 25px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.name{
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+.p1{
+    margin-bottom: 30px;
+
+}
+.p2{
+    width: 600px;
+}
+.box{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+}
+.con2{
+    color: white;
+    margin-top: 3px;
+    margin-left:25px ;
+}
+.seven{
+    font-size: 30px;
+}
+.im2{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.pl{
+    width: 900px;
+    margin-bottom: 20px;
+}
+.con3{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.ulti{
+    margin-bottom: 10px;
+    width: 400px;
+}
+.ulti:hover{
+    color: chocolate;
+}
+.read:hover{
+    color: chocolate;
+}
+.fashion{
+    margin-bottom: 20px;
+}
+.dash{
+    color: grey;
+    opacity: 0.6;
+}
+.im3{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.im5{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.im7{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.pl1{
+    width: 440px;
+    margin-bottom: 20px;
+}
+.sec2{
+    margin-top: 27px;
+}
+.main1{
+    display: flex;
+    gap: 110px;
+}
+.con5{
+    margin-top: 30px;
+}
+.dash1{
+    color: grey;
+    opacity: 0.6;
+    margin-top: 30px;
+}
+.one{
+    width: 30px;
+    height: 28px;
+    border: 1px solid black;
+    color:   black;
+    text-decoration-line: none;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.two{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.two:hover{
+    background-color: black;
+    color: white;
+}
+.b1{
+    display: flex;
+    margin-top: 50px;
+    gap: 400px;
+    margin-left:250px ;
+}
+.next{
+    width: 90px;
+    height: 28px;
+    border: 1px solid black;
+    text-decoration-line: none ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration-line: none ;
+    color: black;
+}
+.next::before{
+    margin-right: 5px;    
+    content: '\2190';
+}
+.next:hover{
+    background-color: black;
+    color: white;
+}
+.b2{
+    display: flex;
+    gap: 10px;
+}
+.da{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    color: grey;
+    opacity: 0.4;
+}
+.pf{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.pf1{
+    margin-left: 700px;
+    margin-top: 8px;
+}
+.contact{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-decoration-line: none;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 720px;
+    margin-top: 30px;
+}
+.contact:hover{
+    background-color: rgb(202, 125, 8);
+    color: black;
+}
+.copy{
+    margin-top: 50px;
+    margin-left: 570px;
+    margin-bottom: 50px;
+}
+
